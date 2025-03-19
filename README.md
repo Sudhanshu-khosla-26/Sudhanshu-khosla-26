@@ -37,9 +37,6 @@
 
    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"> 
 
-   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  </a>
 
    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"> 
 
@@ -50,8 +47,7 @@
    </a>
    
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50">
-  
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50">
+
 </div>
 
 
@@ -71,7 +67,7 @@
 
   <!-- Intro Automate -->
   <a href="https://github.com/himanshu145505">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Himanshu+Sharma;Computer+Science+Student+at+Christ+University+;|Passionate+Techie💙|+Skills|+Java|+Full+Stack+Development|+Python|;">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Sudhanshu+Khosla;Computer+Science+Student+at+GGSIPU+;|Passionate+Techie💙|+Skills|+Java|+Full+Stack+Development|;">
   </a>
 
 
