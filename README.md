@@ -218,7 +218,7 @@
 <p " align="center">
   <img src="https://komarev.com/ghpvc/?username=sudhanshu-kholsa-26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/sudhanshu-khosla-26/count.svg" alt="visitor badge"/></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/sudhanshu-khosla-26/count.svg" alt="visitor badge"/></p> -->
 <br>
 
 
