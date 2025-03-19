@@ -67,7 +67,7 @@
 
   <!-- Intro Automate -->
   <a href="https://github.com/himanshu145505">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Sudhanshu+Khosla;Computer+Science+Student+at+GGSIPU+;|Passionate+Techie💙|+Skills|+Java|+Full+Stack+Development|;">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Sudhanshu+Khosla;Computer+Science+Student+at+GGSIPU+;|Passionate+Techie💙|+Skills|+javascript|+Java|+Full+Stack+Development|;">
   </a>
 
 
