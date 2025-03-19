@@ -258,7 +258,7 @@
 
 
 <!--Text Automate (DM for Collaboration)-->
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=DM+for+Collaboration" alt="Typing SVG" /></a>
+<a href=""><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=DM+for+Collaboration" alt="Typing SVG" /></a>
 
 
 
