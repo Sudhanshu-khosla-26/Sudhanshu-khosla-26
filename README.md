@@ -77,52 +77,12 @@
 
 
 
-<!-- Experience and Achievements Section -->
 
-  <!-- Left Stamp -->
-  <h3 align="center">
- <a href="https://github.com/himanshu145505">
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
-    </a>
-    
- <!--Right Stamp-->
- <a href="https://github.com/himanshu145505">
-  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
- </a>
-</h3>
-
-<!-- Thin Divider -->
+<!-- Thin Divider 
 <a href="https://github.com/Himanshu145505">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
-
-<p align="center">
-  <a href="https://github.com/himanshu145505">
-    <br>
-    
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Exp%20^%20Honors">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20%20-Intern%20DRDO%20Min%20of%20Defence,%20India%20🇮🇳;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
-   <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Former%20SWE%20%20-Intern%20Defence%20Research%20and%20Development%20Organisation%20(DRDO)%20🇮🇳;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
-    <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Delegate%20Harvard%20HPAIR'25%20🇺🇸%20and%20HPAIR'24%20ACONF%20🇹🇭;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
-    <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Google%20Ai%20For%20Impact%20Hackathon%20Top%2095%20ASIA%20Pacific%20Region🌏;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Winner🏆%20Clash%20of%20Codes%20V%202.0%20Hackathon;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Winner🏆%20CodeZen%202025%20Hackathon;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
- 
- 
-  </a>
-</p>
-
-<!-- Thin Divider -->
-<a href="https://github.com/Himanshu145505">
-  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
+-->
 
 
 
@@ -163,11 +123,11 @@
   <h3 align="center">Connect With Me:</h3>
 <div align="center">
   <!-- LinkedIn -->
-  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshusharma05/" target="blank">
+  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/sudhanshu-khosla-a05b4a298/" target="blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/_himanshusharma05?igsh=MXdxOGVzNnAyZ3RxZA==" target="blank">
+  <a href="https://www.instagram.com/sudhanshu_khosla" target="blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a> 
 </div>
@@ -186,9 +146,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+ <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
+  </a> -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   </a>
@@ -198,18 +158,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   </a>
+  <!--
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  </a>
+  </a> -->
 </div>
 
 <!-- Development Tools & IDEs -->
 <h3 align="center">🛠️ Development Tools & IDEs</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Tools & IDEs" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & IDEs" />
   </a>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" height="48px" alt="Android Studio">
+ 
 </div>
 
 <!-- Package Managers -->
@@ -225,7 +186,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="48px" alt="MySQL">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" height="48px" alt="Firebase">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="48px" alt="MongoDB">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" height="48px" alt="Google Cloud">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" height="48px" alt="Aws">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" height="48px" alt="Azure">
 </div>
 
@@ -238,8 +199,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> 
   </a>  
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="40px" alt="Flask">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" height="48px" alt="TensorFlow">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="48px" alt="Tailwind CSS">
 </div>
 
@@ -259,7 +218,7 @@
 <p " align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/sudhanshu-khosla-26/count.svg" alt="visitor badge"/></p>
 <br>
 
 
@@ -267,8 +226,9 @@
 
 <!-- Contribution Graph and Stats -->
 <!--Red Divider-->
+<!--
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+--> 
 <!-- GitHub Streak Stats -->
 <!--
 <p align="center">
@@ -289,7 +249,7 @@
 <br>
 <br>
 <!--Contribution Graph-->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu145505&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Himanshu145505" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshu-khosla-26&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="sudhanshu-khosla-26" />
 <!--Red Divider-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -313,7 +273,7 @@
   <!-- Social Links -->
   <p align="center">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/himanshusharma05/" target="_blank">
+    <a href="https://www.linkedin.com/in/sudhanshu-khosla-a05b4a298/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
     </a>
     <!-- My Portfolio -->
@@ -321,7 +281,7 @@
       <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" alt="My Portfolio" style="height: 30px;">
     </a> -->
     <!-- Mail -->
-    <a href="mailto:himanshusharma24795@gmail.com" target="_blank">
+    <a href="mailto:work.sudhanshukhosla@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px;">
     </a>
     <!-- CV -->
@@ -338,7 +298,7 @@
 <!-- Animated Line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <p align="center">
-  <a href="https://github.com/himanshu145505">
+  <a href="https://github.com/sudhanshu-khosla-26">
     <br>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
   </a>
@@ -347,24 +307,4 @@
 
 
 
-<!-- Rainbow Partition -->
-<p align="center">
-  <a href="https://github.com/himanshu145505">
-    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-  </a>
 
-
-
-
-<!--"Have Some Fun" Automate-->
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=25&lines=Have+Some+Fun+😁&center=true&width=500&height=80"></a>
-</p>
-
-
-
-
-
-<!--Facts and Jokes-->
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
