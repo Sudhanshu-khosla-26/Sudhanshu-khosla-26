@@ -7,7 +7,7 @@
 
 
 <!-- Rainbow Divider -->
-<a href="https://github.com/himanshu145505">
+<a href="https://github.com/Sudhanshu-khosla-26">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
@@ -56,7 +56,7 @@
 <!--Angular Bracket Gif-->
 <br>
 <p align="center">
-  <a href="https://github.com/himanshu145505">
+  <a href="https://github.com/Sudhanshu-khosla-26">
     <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
   </a>
 
@@ -66,7 +66,7 @@
 
 
   <!-- Intro Automate -->
-  <a href="https://github.com/himanshu145505">
+  <a href="https://github.com/Sudhanshu-khosla-26">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Sudhanshu+Khosla;Computer+Science+Student+at+GGSIPU+;|Passionate+Techie💙|+Skills|+javascript|+Java|+Full+Stack+Development|;">
   </a>
 
@@ -79,7 +79,7 @@
 
 
 <!-- Thin Divider 
-<a href="https://github.com/Himanshu145505">
+<a href="https://github.com/Sudhanshu-khosla-26">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 -->
@@ -234,7 +234,7 @@
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu145505&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu-khosla-26&theme=dark&hide_border=true"/>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
    </a>
 </p>
@@ -243,7 +243,7 @@
 <!-- GitHub Streak Stats -->
 <!--
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu145505" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu-khosla-26" alt="GitHub Streak Stats">
 </p> 
 -->
 <br>
@@ -277,7 +277,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
     </a>
     <!-- My Portfolio -->
-<!--     <a href="https://github.com/Himanshu145505" target="_blank">
+<!--     <a href="https://github.com/Sudhanshu-khosla-26" target="_blank">
       <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" alt="My Portfolio" style="height: 30px;">
     </a> -->
     <!-- Mail -->
@@ -285,7 +285,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px;">
     </a>
     <!-- CV -->
-<!--     <a href="https://github.com/Himanshu145505">
+<!--     <a href="https://github.com/Sudhanshu-khosla-26">
       <img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download my CV" style="height: 30px;"0
     </a> -->
   </p>
