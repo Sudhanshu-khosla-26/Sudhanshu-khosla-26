@@ -2,13 +2,11 @@
 
 # 👋 Hello, I'm Sudhanshu Khosla
 
-<table border="0" align="center">
-<tr>
-<td width="50%" align="center">
-  
 ### Full Stack Developer | Cloud Enthusiast | Problem Solver
 
 Building scalable applications and distributed systems that make a difference
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" max-width="500"/>
 
 🎓 B.Tech CSE @ GGSIPU, Delhi  
 💡 Passionate about creating meaningful impact through technology  
@@ -17,13 +15,6 @@ Building scalable applications and distributed systems that make a difference
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudhanshu-khosla-a05b4a298/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sudhanshukhosla@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sudhanshu_khosla)
-
-</td>
-<td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -102,12 +93,11 @@ const sudhanshu = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu-khosla-26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-khosla-26&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-khosla-26&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhanshu-khosla-26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" max-width="450"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu-khosla-26&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" max-width="450"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu-khosla-26&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" max-width="450"/>
 </div>
 
 ---
